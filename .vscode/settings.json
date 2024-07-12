@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "driver": "PostgreSQL",
+      "name": "rust test api",
+      "connectString": "postgres://postgres:password@localhost/test_api"
+    }
+  ]
+}
